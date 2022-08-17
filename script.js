@@ -2,7 +2,9 @@
 // from https://dirask.com/posts/JavaScript-dynamically-create-grid-of-divs-using-flexbox-139abp
 // to be dynamic - add input id to columns and rows variable - DONE
 // needs color change added - toggle class - DONE
-// fix gridSize prompt
+// fix gridSize prompt - ISSUES
+// fix grid replacement - ISSUES 
+// tidy up repeated code - 
 
 
 
