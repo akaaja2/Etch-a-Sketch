@@ -1,13 +1,12 @@
 .grid {
-    display: flex;   /* <--- required */
-   
-    padding: 30px;
+    display: flex;  
+    margin: auto;
+    width: 960px;
 }
 
 .column {
-    flex: 1; /* <--- required (style column to fill the same space as the other columns) */
+    flex: 1; 
 }
-
 .row {
     margin: 1px;
     background: gold;
@@ -18,3 +17,6 @@
 .div.row {
     aspect-ratio: 1 / 1 ;
 }
+.row.active {
+    background-color: black;
+  }
